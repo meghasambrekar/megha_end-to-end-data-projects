@@ -1,0 +1,18 @@
+rag-chatbot/
+│
+├── backend/
+│   ├── app.py
+│   ├── requirements.txt
+│   ├── uploads/
+│   ├── vectorstore/
+│   └── utils/
+│       ├── document_loader.py
+│       ├── embeddings.py
+│       ├── rag_pipeline.py
+│       └── chunking.py
+│
+├── frontend/
+│   ├── app.py
+│   └── requirements.txt
+│
+└── README.md
